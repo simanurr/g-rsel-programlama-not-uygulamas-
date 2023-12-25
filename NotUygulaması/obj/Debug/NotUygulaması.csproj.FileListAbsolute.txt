@@ -1,0 +1,10 @@
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje3\NotUygulaması\bin\Debug\NotUygulaması.exe.config
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje3\NotUygulaması\bin\Debug\NotUygulaması.exe
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje3\NotUygulaması\bin\Debug\NotUygulaması.pdb
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje3\NotUygulaması\obj\Debug\NotUygulaması.csprojAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje3\NotUygulaması\obj\Debug\NotUygulaması.Form1.resources
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje3\NotUygulaması\obj\Debug\NotUygulaması.Properties.Resources.resources
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje3\NotUygulaması\obj\Debug\NotUygulaması.csproj.GenerateResource.cache
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje3\NotUygulaması\obj\Debug\NotUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje3\NotUygulaması\obj\Debug\NotUygulaması.exe
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje3\NotUygulaması\obj\Debug\NotUygulaması.pdb
